@@ -6,8 +6,3 @@ numpy
 pandas
 matplotlib
 tensorflow
-
-
-
-
-

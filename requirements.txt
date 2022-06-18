@@ -1,9 +1,13 @@
+os
+gym
+stable_baselines
+kaggle_environments
 numpy
 pandas
 matplotlib
 tensorflow
-gym
-kaggle_environments
-os
-stable_baselines
+
+
+
+
 

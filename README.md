@@ -10,7 +10,7 @@ https://github.com/gellanyhassan0/gellany_notebook
 <code>docker ps</code><br>
 <code>docker exec -it 83ea954d9b5a docker exec -it caf9658ee12f jupyter notebook --allow-root --port=8888 --ip=0.0.0.0</code><br>
 
-http://0.0.0.0:8888/
+http://0.0.0.0:8888/?token=*
 
 
 <code>docker stop 83ea954d9b5a</code><br>
@@ -25,7 +25,7 @@ http://0.0.0.0:8888/
 <code>docker exec -it 83ea954d9b5a docker exec -it caf9658ee12f jupyter notebook --allow-root --port=8888 --ip=0.0.0.0</code><br>
 <code>docker stop 83ea954d9b5a</code><br>
 
-http://0.0.0.0:8888/
+http://0.0.0.0:8888/?token=*
 
 
 
